@@ -1,0 +1,12 @@
+{
+    "Usrat Jahan": {
+        "password" : "usrat123",
+        "balance": "10000"
+
+    },
+    "AKib": {
+        "password" : "123456",
+        "balance": "50000"
+
+    }
+}
